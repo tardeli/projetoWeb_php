@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{
+    background-color: #cccccc;
+}
+#estilo1{
+    width: 300px;
+    margin: auto;
+    margin-top: 180px;
+    border: 1px black solid;
+    border-radius: 8px;
+    background-color: #ffffff;
+    padding: 8px;
+}
